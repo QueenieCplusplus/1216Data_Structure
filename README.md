@@ -13,6 +13,8 @@ https://github.com/QueenieCplusplus/DataStructure_Heap
 
 2. Sort
 
+https://github.com/QueenieCplusplus/DataStructure_Sort
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 3. Tree
