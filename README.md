@@ -5,13 +5,13 @@ TBD...
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-1. Heap
+1. Heap, 堆積
 
 https://github.com/QueenieCplusplus/DataStructure_Heap
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-2. Sort
+2. Sort, 排序
 
 https://github.com/QueenieCplusplus/DataStructure_Sort
 
