@@ -23,4 +23,4 @@ https://github.com/QueenieCplusplus/DataStructure_Heap
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-5. Others (Array & Queue & Set) 略 
+5. Others (Array 陣列 & Queue 序列 & Set 集合 & Stack 堆疊) 略 
